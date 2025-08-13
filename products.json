@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Signature Logo Tee",
+    "price": 35.0,
+    "category": "tops",
+    "image": "assets/placeholder.svg",
+    "new": true
+  },
+  {
+    "name": "Relaxed Hoodie",
+    "price": 68.0,
+    "category": "tops",
+    "image": "assets/placeholder.svg",
+    "new": false
+  },
+  {
+    "name": "Everyday Joggers",
+    "price": 59.0,
+    "category": "bottoms",
+    "image": "assets/placeholder.svg",
+    "new": false
+  },
+  {
+    "name": "Classic Cap",
+    "price": 28.0,
+    "category": "accessories",
+    "image": "assets/placeholder.svg",
+    "new": true
+  },
+  {
+    "name": "Canvas Tote",
+    "price": 24.0,
+    "category": "accessories",
+    "image": "assets/placeholder.svg",
+    "new": false
+  },
+  {
+    "name": "Utility Cargo Pants",
+    "price": 74.0,
+    "category": "bottoms",
+    "image": "assets/placeholder.svg",
+    "new": true
+  }
+]
